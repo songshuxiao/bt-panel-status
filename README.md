@@ -1,7 +1,7 @@
 # bt-panel-status
 PHP调用宝塔API实现服务器自动化监控
 
- ![开启API](./images/screenshot.jpg)
+ ![Demo](./images/screenshot.jpg)
 
 特点
 *   系统信息：操作系统/面板版本/运行时间/CPU 核心
