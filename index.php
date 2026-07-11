@@ -8,7 +8,7 @@ $servers = [
     [
         'name'  => '服务器 A',
         'panel' => 'https://192.168.1.245:8888',
-        'key'   => 'your_second_api_key_here'
+        'key'   => 'your_first_api_key_here'
     ],
     [
         'name'  => '服务器 B',
